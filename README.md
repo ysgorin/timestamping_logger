@@ -1,6 +1,8 @@
 # Timestamping Logger
 
-A tiny Python example showing a decorator that prints a timestamp and the function name whenever the function runs.
+Simple Python examples of adding timestamps to function calls using:
+- a decorator function
+- a decorator class
 
 ## Requirements
 - Python 3.x
@@ -8,3 +10,4 @@ A tiny Python example showing a decorator that prints a timestamp and the functi
 ## Run
 ```bash
 python timestamping_logger.py
+python timestamping_logger_class.py
