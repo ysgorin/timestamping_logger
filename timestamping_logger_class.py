@@ -1,4 +1,4 @@
-# timestamping_logger.py
+# timestamping_logger_class.py
 
 # Dependencies
 from datetime import datetime
@@ -28,3 +28,4 @@ add_nums(10, 30)
 sleep(2)
 add_nums(6, 10)
 sleep(1)
+
